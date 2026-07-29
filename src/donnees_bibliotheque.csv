@@ -1,0 +1,17 @@
+id,type,titre,auteur_ou_editeur,annee_publication,disponible,nb_emprunts,attribut_specifique
+DOC001,Livre,Le Comte de Monte-Cristo,Alexandre Dumas,1844,true,12,ISBN-9780140449266
+DOC002,Ebook,Apprendre Java en 21 jours,Sams Publishing,2020,true,25,5.4MB
+DOC003,Magazine,Science & Vie,Mondadori,2023,false,5,N312
+DOC004,Livre,Les Misérables,Victor Hugo,1862,true,18,ISBN-9780140444308
+DOC005,Ebook,Clean Code,Robert C. Martin,2008,true,40,3.2MB
+DOC006,Magazine,National Geographic,Society,2022,true,8,N145
+DOC007,Livre,1984,George Orwell,1949,false,30,ISBN-9780451524935
+DOC008,Ebook,Design Patterns,Erich Gamma,1994,true,15,4.1MB
+DOC009,Livre,L'Étranger,Albert Camus,-2021,true,0,ISBN-9780679720201
+DOC010,Magazine,L'Histoire,Sophia Publications,2024,true,2,N501
+DOC011,Livre,Dune,Frank Herbert,1965,true,22,ISBN-9780441172719
+DOC012,Ebook,Refactoring,Martin Fowler,2018,false,19,6.0MB
+DOC013,Magazine,Geek Magazine,Press,2023,true,7,N88
+DOC014,Livre,Fondation,Isaac Asimov,1951,true,11,ISBN-9780553293357
+DOC015,BD,Asterix le Gaulois,Rene Goscinny,1961,true,5,Tome1
+DOC016,Ebook,Effective Java,Joshua Bloch,2018,true,33,2.8MB
