@@ -1,6 +1,6 @@
 # Guetchine Jean Baptiste
 
-## Module pris en charge : Services métier & Fichier principal Main
+## Module pris en charge : Services métier et Fichier principal Main
 
 ### 1. Contributions réalisées
 Dans le cadre du Projet 1 (Bibliothèque numérique), j'ai pris en charge le traitement des données, la logique métier et le point d'entrée de l'application :
