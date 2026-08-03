@@ -1,0 +1,34 @@
+====================================================
+           SUIVI DES CONTRIBUTIONS DU GROUPE
+====================================================
+
+Projet : Bibliothèque Numérique et Gestion des Emprunts
+
+----------------------------------------------------
+1. Yvan :
+----------------------------------------------------
+- Conception et implémentation de la hiérarchie de classes métier :
+  * Document.java (Classe abstraite de base/classe mère)
+  * Empruntable.java (Interface d'emprunt/retour)
+  * Livre.java, Ebook.java, Magazine.java (Sous-classes/classes filles )
+- Création des exceptions personnalisées :
+  * DonneesInvalidesException.java
+  * DocumentIndisponibleException.java
+- Rédaction du README.md individuel dans le dossier /Yvan.
+
+----------------------------------------------------
+2. Guetchine :
+----------------------------------------------------
+- Développement de la couche de services métier :
+  * GestionnaireFichierCSV.java (Lecture CSV & validation)
+  * GestionnaireEmprunts.java (Gestion des flux d'emprunt/retour)
+  * GenerateurStatistiques.java (Calculs & export rapport TXT)
+- Implémentation de la classe principale Main.java (Démonstration globale).
+- Création du fichier de données initiales (donnees_bibliotheque.csv).
+- Rédaction du README.md individuel dans le dossier /Guetchine.
+
+----------------------------------------------------
+3. Travail conjoint :
+----------------------------------------------------
+- Conception de la structure du projet Git et application des principes SOLID (SRP & OCP).
+- Rédaction de la documentation globale (README.md et contributions.txt).

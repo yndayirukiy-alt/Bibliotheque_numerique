@@ -1,5 +1,5 @@
 
-# Projet : Bibliothèque Numérique et Gestion des Emprunts (Java)
+# Projet : Bibliothèque Numérique et Gestion des Emprunts
 
 -----
 - **Membres du groupe :**
